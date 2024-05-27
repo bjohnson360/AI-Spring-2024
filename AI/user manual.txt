@@ -1,0 +1,10 @@
+
+
+
+Deep Learning Algorithm for Exoplanet Classification
+Brian Johnson
+CSC4810 Spring 2024
+
+- Open python file in Jupyter Notebook or supporting software. I recommend VSCode with Jupyter Notebook extension
+- Incase .csv file is not loading data, put the absolute/relative path of file in the code instead of just "dataset2.csv"
+-Press play button throughout sections of the code.
